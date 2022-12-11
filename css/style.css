@@ -1,0 +1,1226 @@
+.body{}
+.topone{
+    background: #f5a5a5;
+    width: 100%;
+    height: 42px;
+    margin-top: -13px;
+}
+.tone{
+    width: 100%;
+    height: 100%;
+}
+.tone p{
+    color: black;
+    text-align: center;
+    padding: 13px;
+    font-size: 13px;
+    letter-spacing: 2px;
+}
+.toptwo{
+    display: inline-flex;
+    width: 100%;
+    height: 50px;
+    background: #f5f5f5;
+}
+.ttwoone{
+    width: 70%;
+    height: 100%;
+    margin-left: ;
+}
+.ttwoone p{
+    color: black;
+    text-transform: uppercase;
+    padding: 5px;
+    font-size: 13px;
+    margin-left: 543px;
+}
+.ttwotwo{
+    width: 30%;
+    height: 100%;
+    margin-left: 220px;
+    margin-top: 15px;
+}
+.ttwotwo a{
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    padding: 5px;
+    font-size: 13px;
+}
+.ttwotwo a:hover{
+    border-bottom: 1px solid black;
+}
+.menubar{
+    display: inline-flex;
+    width: 100%;
+    height: 43px;
+    margin-bottom: 31px;
+}
+.mone{
+    width: 30%;
+    height: 100%;
+}
+.mone img{
+    width: 17%;
+    height: 100%;
+    margin-left: 51px;
+    margin-top: 17px;
+}
+.mtwo{
+    width: 50%;
+    height: 100%;
+    margin-right: 74px;
+}
+.mtwo nav{}
+.mtwo nav ul{
+    margin-top: 28px;
+    margin-left: -37px;
+}
+.mtwo nav ul li{
+    display: inline;
+}
+.mtwo nav ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    padding: 13px;
+}
+.mtwo nav ul li a:hover{
+    border-bottom: 2px solid black;
+    color: #20c997;
+}
+.icon{
+    padding: 4px;
+    margin-top: 23px;
+    font-size: 22px;
+    margin-left: 20px;
+}
+.icon a{
+    text-decoration: none;
+    color: black;
+}
+.slider{}
+.sldr{}
+.sldr a{}
+.trend{
+    display: inline-flex;
+    width: 100%;
+    height: 400px;
+    margin-bottom: 184px;
+}
+.trnd{
+    width: 43%;
+    margin-left: 57px;
+}
+.trnd a{
+    width: 100%;
+}
+.trnd a img{
+    width: 100%;
+}
+.trnd a:hover{
+    color: rgba(255, 235, 205, 0);
+}
+.newarrivals{
+    width: 100%;
+    height: 72px;
+}
+.arrival{
+    width: 100%;
+    height: 100%;
+}
+.arrival p{
+    text-align: center;
+    font-size: 19px;
+    text-transform: capitalize;
+    margin-top: -22px;
+}
+.arrival h3{
+    text-align: center;
+    font-size: 30px;
+    text-transform: capitalize;
+}
+.product{
+    width: 100%;
+}
+.items{
+    display: inline-flex;
+    width: 100%;
+}
+.item{
+    width: 15%;
+    margin-left: 18px;
+    box-shadow: 1px 1px 3px black;
+    margin-top: 40px;
+}
+.item img{
+    width: 100%;
+}
+.item p{
+    text-align: center;
+    font-size: 14px;
+    width: 100%;
+    height: 30px;
+}
+.item h5{
+    text-align: center;
+    font-size: 15px;
+}
+.item button{
+    width: 86%;
+    padding: 5px;
+    margin-left: 13px;
+    background: white;
+    color: black;
+    border: 1px solid black;
+    margin-bottom: 18px;
+}
+.item button:hover{
+    background: black;
+    color: white;
+}
+.bottom{
+    display: inline-flex;
+    width: 100%;
+    background: #e7e7e7;
+    margin-top: 37px;
+    margin-bottom: 15px;
+}
+.bone{
+    width: 20%;
+    margin-left: 84px;
+    margin-top: 72px;
+    height: 142px;
+}
+.bone a{
+    text-decoration: none;
+    color: #808080;
+    font-weight: 700;
+}
+.bone a:hover{
+    border-bottom: 1px solid black;
+}
+.bone p{
+    color: #6d6154;
+}
+.bicon{
+    font-size: 31px;
+    color: #808080;
+}
+.bottomone{
+    display: inline-flex;
+    width: 100%;
+    background: #f9f9f9;
+    margin-top: -18px;
+}
+.boone{
+    width: 20%;
+    margin-top: 11px;
+}
+.boone p{
+    font-size: 21px;
+    margin-left: 49px;
+}
+.boone h1{
+    font-size: 34px;
+    margin-top: -25px;
+    margin-left: 49px;
+}
+.botwo{
+    width: 50%;
+}
+.botwo input{
+    font-size: 26px;
+    width: 70%;
+    margin-top: 42px;
+    margin-left: 24px;
+}
+::placeholder{
+    font-size: 17px;
+}
+.botwo button{
+    font-size: 26px;
+    width: 21%;
+    background: black;
+    color: white;
+    border: 1px solid black;
+}
+.botwo button:hover{
+    background: maroon;
+    color: white;
+}
+.bothree{
+    width: 10%;
+    margin-top: 44px;
+    margin-left: 184px;
+}
+.bthree a{
+    text-decoration: none;
+    color: black;
+}
+.boicon{
+    font-size: 27px;
+    margin: 6px;
+    color: black;
+}
+.footer{
+    display: inline-flex;
+    width: 100%;
+    margin-top: 30px;
+}
+.fone{
+    width: 20%;
+    margin-left: 41px;
+    margin-right: -78px;
+}
+.fone h4{
+    font-weight: 700;
+}
+.fone a{
+    text-decoration: none;
+    color: black;
+}
+.fone a:hover{
+    border-bottom: 1px solid black;
+}
+.ftwo{
+    width: 20%;
+    margin-left: 113px;
+}
+.ftwo h4{
+    font-weight: 700;
+}
+.ftwo p{}
+.right{}
+.rone{
+    margin-top: 40px;
+}
+.rone p{
+    text-align: center;
+}
+.card{
+    text-align: center;
+    font-size: 38px;
+}
+.bestsell{
+    margin-top: 55px;
+    margin-bottom: 38px;
+}
+.bsell{}
+.bsell h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 28px;
+}
+.owl-carousel{
+    
+}
+.bitem{
+    width: 58%;
+    height: 100%;
+    margin-left: 63px;
+}
+.bitem img{
+    width: 100%;
+}
+.bitem p{
+    text-align: center;
+    font-size: 14px;
+    width: 100%;
+    height: 30px;
+}
+.bitem h5{
+    text-align: center;
+    font-size: 15px;
+}
+.bitem button{
+    width: 86%;
+    padding: 5px;
+    margin-left: 13px;
+    background: white;
+    color: black;
+    border: 1px solid black;
+    margin-bottom: 18px;
+}
+.bitem button:hover{
+    background: black;
+    color: white;
+}
+
+
+
+@media only screen and (min-width:320px) and (max-width:426px){
+
+    .body{}
+    .topone{}
+    .tone{}
+    .tone p{
+        font-size: 8px;
+    }
+    .toptwo{
+        width: 100%;
+        height: 36px;
+    }
+    .ttwoone{
+        width: 30%;
+        margin-left: -537px;
+        margin-top: -7px;
+    }
+    .ttwoone p{
+        font-size: 10px;
+        text-transform: uppercase;
+    }
+    .ttwotwo{
+        width: 70%;
+        margin-left: 555px;
+        margin-top: 8px;
+    }
+    .ttwotwo a{
+        font-size: 10px;
+        text-transform: uppercase;
+    }
+    .ttwotwo a:hover{
+        border-bottom: 1px solid black;
+    }
+    .menubar{
+        width: 100%;
+        height: 24px;
+    }
+    .mone{
+        width: 10%;
+        margin-left: -40px;
+        margin-top: -11px;
+    }
+    .mone img{
+        width: 100%;
+    }
+    .mtwo{
+        width: 50%;
+    margin-left: 79px;
+    margin-top: -27px;
+    }
+    .mtwo nav{}
+    .mtwo nav ul{}
+    .mtwo nav ul li{
+        display: inline;
+    }
+    .mtwo nav ul li a{
+        font-size: 10px;
+    }
+    .mtwo nav ul li a:hover{}
+    .icon{
+        width: 20%;
+        margin-top: 0px;
+    }
+    .icon a{
+        text-decoration: none;
+        color: black;
+        font-size: 16px;
+        margin-left: -15px;
+    }
+    .slider{}
+    .sldr{}
+    .sldr a{}
+    .sldr a img{}
+    .trend{
+        width: 100%;
+        display: inline;
+    }
+    .trnd{
+        width: 100%;
+        margin-left: 0px;
+    }
+    .trnd a{}
+    .trnd a img{}
+    .trnd a:hover{}
+    .newarrivals{}
+    .arrival{}
+    .arrival p{}
+    .arrival h3{}
+    .product{}
+    .items{
+        display: inline;
+        width: 100%;
+    }
+    .item{
+        width: 50%;
+        margin-left: 91px;
+    }
+    .item img{}
+    .item p{}
+    .item h5{}
+    .item button{}
+    .item button:hover{}
+    .bottom{
+        width: 100%;
+        display: inline;
+    }
+    .bone{
+        width: 90%;
+        margin-top: 1px;
+        margin-left: 13px; 
+        margin-bottom: -21px;
+    }
+    .bgap{
+        margin-top: -45px;
+    }
+    .bone a{}
+    .bone a:hover{
+        border-bottom: 1px solid black;
+    }
+    .bone p{}
+    .bicon{}
+    .bottomone{
+        display: inline;
+        width: 100%;
+    }
+    .boone{
+        width: 100%;
+        margin-top: -52px;
+        display: inline-flex;
+        background: #e7e7e7;
+    }
+    .boone p{
+        font-size: 16px;
+        margin-left: 36px;
+    }
+    .boone h1{
+        font-size: 31px;
+        margin-left: 5px;
+        margin-top: 2px;
+    }
+    .botwo{
+        width: 100%;
+        display: inline-flex;
+        margin-top: -29px;
+        background: #e7e7e7;
+    }
+    .botwo input{
+        width: 50%;
+        margin-left: 9px;
+        margin-top: 0px;
+        height: 28px;
+    }
+    ::placeholder{
+        font-size: 15px;
+    }
+    .botwo button{
+        width: 40%;
+        font-size: 20px;
+        padding: 3px;
+        height: 34px;
+        margin-top: 0px;
+        border: 3px solid black;
+    }
+    .botwo button:hover{
+        background: maroon;
+        color: white;
+    }
+    .bothree{
+        display: inline-flex;
+        margin-top: 0px;
+        background: #e7e7e7;
+        width: 100%;
+        margin-left: 0px;
+        height: 41px;
+    }
+    .bothree a{
+        margin-left: 53px;
+        margin-top: 5px;
+    }
+    .boicon{
+        font-size: 18px;
+        margin-left: 5px;
+    }
+    .footer{
+        display: inline-flex;
+        width: 100%;
+    }
+    .fone{
+        width: 20%;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .fone h4{
+        font-size: 10px;
+    }
+    .fone a{
+        font-size: 10px;
+    }
+    .fone a:hover{
+        border-bottom: 1px solid black;
+    }
+    .ftwo{
+        width: 25%;
+        margin-left: 23px;
+    }
+    .ftwo h4{
+        font-size: 10px;
+    }
+    .ftwo p{
+        font-size: 10px;
+    }
+    .right{}
+    .rone{}
+    .rone p{
+        font-size: 10px;
+    }
+    .card{
+        font-size: 15px;
+    }
+    .bestsell{}
+    .bsell{}
+    .bsell h1{
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 15px;
+    }
+    .owl-carousel{}
+    .bitem{
+        width: 80%;
+    }
+    .bitem img{
+        width: 100%;
+    }
+    .bitem p{
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 8px;
+    }
+    .bitem h5{
+        font-size: 10px;
+        text-align: center;
+    }
+    .bitem button{
+        width: 80%;
+        height: 20px;
+        font-size: 6px;
+        margin-left: 7px;
+    }
+    .bitem button:hover{
+        background: black;
+        color: white;
+    }
+}
+
+
+
+@media only screen and (min-width:426px) and (max-width:768px){
+
+    .body{}
+    .topone{}
+    .tone{}
+    .tone p{
+        font-size: 11px;
+    }
+    .toptwo{
+        width: 100%;
+        height: 36px;
+    }
+    .ttwoone{
+        width: 40%;
+        margin-left: -418px;
+        margin-top: -8px;
+
+    }
+    .ttwoone p{
+        font-size: 10px;
+        text-transform: uppercase;
+    }
+    .ttwotwo{
+        width: 70%;
+        margin-left: 555px;
+        margin-top: 8px;
+    }
+    .ttwotwo a{
+        font-size: 10px;
+        text-transform: uppercase;
+    }
+    .ttwotwo a:hover{
+        border-bottom: 1px solid black;
+    }
+    .menubar{
+        width: 100%;
+        height: 24px;
+        display: none;
+    }
+    .mone{
+        width: 10%;
+        margin-left: -40px;
+        margin-top: -11px;
+    }
+    .mone img{
+        width: 100%;
+    }
+    .mtwo{
+        width: 50%;
+    margin-left: 79px;
+    margin-top: -27px;
+    }
+    .mtwo nav{}
+    .mtwo nav ul{}
+    .mtwo nav ul li{
+        display: inline;
+    }
+    .mtwo nav ul li a{
+        font-size: 10px;
+    }
+    .mtwo nav ul li a:hover{}
+    .icon{
+        width: 20%;
+        margin-top: 0px;
+    }
+    .icon a{
+        text-decoration: none;
+        color: black;
+        font-size: 16px;
+        margin-left: -15px;
+    }
+    .slider{}
+    .sldr{}
+    .sldr a{}
+    .sldr a img{}
+    .trend{
+        width: 100%;
+        display: inline;
+    }
+    .trnd{
+        width: 100%;
+        margin-left: 0px;
+    }
+    .trnd a{}
+    .trnd a img{}
+    .trnd a:hover{}
+    .newarrivals{}
+    .arrival{}
+    .arrival p{}
+    .arrival h3{}
+    .product{}
+    .items{
+        display: inline-flex;
+        width: 100%;
+    }
+    .item{
+        width: 18%;
+        margin-left: 6px;
+    }
+    .item img{}
+    .item p{}
+    .item h5{}
+    .item button{
+        margin-left: 8px;
+    }
+    .item button:hover{}
+    .bottom{
+        width: 100%;
+        display: inline;
+    }
+    .bone{
+        width: 90%;
+        margin-top: 1px;
+        margin-left: 13px; 
+        margin-bottom: -21px;
+    }
+    .bgap{
+        margin-top: -45px;
+    }
+    .bone a{}
+    .bone a:hover{
+        border-bottom: 1px solid black;
+    }
+    .bone p{}
+    .bicon{}
+    .bottomone{
+        display: inline;
+        width: 100%;
+    }
+    .boone{
+        width: 100%;
+        margin-top: -52px;
+        display: inline-flex;
+        background: #e7e7e7;
+    }
+    .boone p{
+        font-size: 16px;
+        margin-left: 265px;
+    }
+    .boone h1{
+        font-size: 31px;
+        margin-left: 5px;
+        margin-top: 2px;
+    }
+    .botwo{
+        width: 100%;
+        display: inline-flex;
+        margin-top: -29px;
+        background: #e7e7e7;
+    }
+    .botwo input{
+        width: 50%;
+        margin-left: 37px;
+        margin-top: 0px;
+        height: 28px;
+    }
+    ::placeholder{
+        font-size: 15px;
+    }
+    .botwo button{
+        width: 40%;
+        font-size: 20px;
+        padding: 3px;
+        height: 34px;
+        margin-top: 0px;
+        border: 3px solid black;
+    }
+    .botwo button:hover{
+        background: maroon;
+        color: white;
+    }
+    .bothree{
+        display: inline-flex;
+        margin-top: 0px;
+        background: #e7e7e7;
+        width: 100%;
+        margin-left: 0px;
+        height: 41px;
+    }
+    .bothree a{
+        margin-left: 53px;
+        margin-top: 5px;
+    }
+    .boicon{
+        font-size: 18px;
+        margin-left: 114px;
+    }
+    .footer{
+        display: inline-flex;
+        width: 100%;
+    }
+    .fone{
+        width: 20%;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .fone h4{
+        font-size: 10px;
+    }
+    .fone a{
+        font-size: 10px;
+    }
+    .fone a:hover{
+        border-bottom: 1px solid black;
+    }
+    .ftwo{
+        width: 25%;
+        margin-left: 23px;
+    }
+    .ftwo h4{
+        font-size: 10px;
+    }
+    .ftwo p{
+        font-size: 10px;
+    }
+    .right{}
+    .rone{}
+    .rone p{
+        font-size: 10px;
+    }
+    .card{
+        font-size: 15px;
+    }
+    .bestsell{}
+    .bsell{}
+    .bsell h1{
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 15px;
+    }
+    .owl-carousel{}
+    .bitem{
+        width: 80%;
+    }
+    .bitem img{
+        width: 100%;
+    }
+    .bitem p{
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 11px;
+    }
+    .bitem h5{
+        font-size: 16px;
+        text-align: center;
+    }
+    .bitem button{
+        width: 80%;
+        height: 21px;
+        font-size: 9px;
+        margin-left: 18px;
+    }
+    .bitem button:hover{
+        background: black;
+        color: white;
+    }
+}
+
+
+@media only screen and (min-width:1024px) and (max-width:1440px) {
+    *{
+        margin: 0px;
+        padding: 0px;
+    }
+.body{}
+.topone{
+    background: #f5a5a5;
+    width: 100%;
+    height: 42px;
+    margin-top: -13px;
+}
+.tone{
+    width: 100%;
+    height: 100%;
+}
+.tone p{
+    color: black;
+    text-align: center;
+    padding: 13px;
+    font-size: 13px;
+    letter-spacing: 2px;
+}
+.toptwo{
+    display: inline-flex;
+    width: 100%;
+    height: 50px;
+    background: #f5f5f5;
+}
+.ttwoone{
+    width: 70%;
+    height: 100%;
+    margin-left: ;
+}
+.ttwoone p{
+    color: black;
+    text-transform: uppercase;
+    padding: 5px;
+    font-size: 13px;
+    margin-left: 468px;
+    margin-top: 6px;
+}
+.ttwotwo{
+    width: 30%;
+    height: 100%;
+    margin-left: 220px;
+    margin-top: 15px;
+}
+.ttwotwo a{
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    padding: 5px;
+    font-size: 13px;
+}
+.ttwotwo a:hover{
+    border-bottom: 1px solid black;
+}
+.menubar{
+    display: inline-flex;
+    width: 100%;
+    height: 43px;
+    margin-bottom: 31px;
+}
+.mone{
+    width: 30%;
+    height: 100%;
+}
+.mone img{
+    width: 17%;
+    height: 100%;
+    margin-left: 51px;
+    margin-top: 17px;
+}
+.mtwo{
+    width: 50%;
+    height: 100%;
+    margin-right: 74px;
+}
+.mtwo nav{}
+.mtwo nav ul{
+    margin-top: 28px;
+    margin-left: -37px;
+}
+.mtwo nav ul li{
+    display: inline;
+}
+.mtwo nav ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    padding: 13px;
+}
+.mtwo nav ul li a:hover{
+    border-bottom: 2px solid black;
+    color: #20c997;
+}
+.icon{
+    padding: 4px;
+    margin-top: 23px;
+    font-size: 22px;
+    margin-left: 20px;
+}
+.icon a{
+    text-decoration: none;
+    color: black;
+}
+.slider{}
+.sldr{}
+.sldr a{}
+.trend{
+    display: inline-flex;
+    width: 100%;
+    height: 400px;
+    margin-bottom: 64px;
+}
+.trnd{
+    width: 43%;
+    margin-left: 48px;
+}
+.trnd a{
+    width: 100%;
+}
+.trnd a img{
+    width: 100%;
+}
+.trnd a:hover{
+    color: rgba(255, 235, 205, 0);
+}
+.newarrivals{
+    width: 100%;
+    height: 72px;
+}
+.arrival{
+    width: 100%;
+    height: 100%;
+}
+.arrival p{
+    text-align: center;
+    font-size: 19px;
+    text-transform: capitalize;
+    margin-top: 4px;
+}
+.arrival h3{
+    text-align: center;
+    font-size: 30px;
+    text-transform: capitalize;
+    margin-top: 19px;
+}
+.product{
+    width: 100%;
+}
+.items{
+    display: inline-flex;
+    width: 100%;
+}
+.item{
+    width: 15%;
+    margin-left: 14px;
+    box-shadow: 1px 1px 3px black;
+    margin-top: 40px;
+}
+.item img{
+    width: 100%;
+}
+.item p{
+    text-align: center;
+    font-size: 14px;
+    width: 100%;
+    height: 30px;
+}
+.item h5{
+    text-align: center;
+    font-size: 15px;
+}
+.item button{
+    width: 86%;
+    padding: 5px;
+    margin-left: 13px;
+    background: white;
+    color: black;
+    border: 1px solid black;
+    margin-bottom: 18px;
+}
+.item button:hover{
+    background: black;
+    color: white;
+}
+.bottom{
+    display: inline-flex;
+    width: 100%;
+    background: #e7e7e7;
+    margin-top: 37px;
+    margin-bottom: 15px;
+}
+.bone{
+    width: 20%;
+    margin-left: 51px;
+    margin-top: 72px;
+    height: 142px;
+}
+.bone a{
+    text-decoration: none;
+    color: #808080;
+    font-weight: 700;
+}
+.bone a:hover{
+    border-bottom: 1px solid black;
+}
+.bone p{
+    color: #6d6154;
+}
+.bicon{
+    font-size: 31px;
+    color: #808080;
+}
+.bottomone{
+    display: inline-flex;
+    width: 100%;
+    background: #f9f9f9;
+    margin-top: -18px;
+    padding-bottom: 29px;
+}
+.boone{
+    width: 20%;
+    margin-top: 32px;
+}
+.boone p{
+    font-size: 21px;
+    margin-left: 49px;
+}
+.boone h1{
+    font-size: 34px;
+    margin-top: -4px;
+    margin-left: 49px;
+}
+.botwo{
+    width: 50%;
+}
+.botwo input{
+    font-size: 26px;
+    width: 70%;
+    margin-top: 42px;
+    margin-left: 24px;
+}
+::placeholder{
+    font-size: 17px;
+}
+.botwo button{
+    font-size: 26px;
+    width: 23%;
+    background: black;
+    color: white;
+    border: 1px solid black;
+    margin-left: -4px;
+}
+.botwo button:hover{
+    background: maroon;
+    color: white;
+}
+.bothree{
+    width: 13%;
+    margin-top: 44px;
+    margin-left: 106px;
+}
+.bthree a{
+    text-decoration: none;
+    color: black;
+}
+.boicon{
+    font-size: 27px;
+    margin: 6px;
+    color: black;
+}
+.footer{
+    display: inline-flex;
+    width: 100%;
+    margin-top: 30px;
+}
+.fone{
+    width: 20%;
+    margin-left: 41px;
+    margin-right: -78px;
+}
+.fone h4{
+    font-weight: 700;
+}
+.fone a{
+    text-decoration: none;
+    color: black;
+}
+.fone a:hover{
+    border-bottom: 1px solid black;
+}
+.ftwo{
+    width: 20%;
+    margin-left: 113px;
+}
+.ftwo h4{
+    font-weight: 700;
+}
+.ftwo p{}
+.right{}
+.rone{
+    margin-top: 40px;
+}
+.rone p{
+    text-align: center;
+}
+.card{
+    text-align: center;
+    font-size: 38px;
+}
+.bestsell{
+    margin-top: 55px;
+    margin-bottom: 38px;
+}
+.bsell{}
+.bsell h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 28px;
+}
+.owl-carousel{
+    
+}
+.bitem{
+    width: 58%;
+    height: 100%;
+    margin-left: 63px;
+}
+.bitem img{
+    width: 100%;
+}
+.bitem p{
+    text-align: center;
+    font-size: 14px;
+    width: 100%;
+    height: 30px;
+}
+.bitem h5{
+    text-align: center;
+    font-size: 15px;
+}
+.bitem button{
+    width: 86%;
+    padding: 5px;
+    margin-left: 13px;
+    background: white;
+    color: black;
+    border: 1px solid black;
+    margin-bottom: 18px;
+}
+.bitem button:hover{
+    background: black;
+    color: white;
+}
+
+    
+}
